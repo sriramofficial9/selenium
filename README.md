@@ -1,7 +1,7 @@
 # automation using java with selenium
 website-zigwheels
 
-Technology Used:
+# Technology Used:
 1.java
 2.maven
 3.selenium
