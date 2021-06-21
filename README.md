@@ -13,5 +13,26 @@ Technology Used:
 9.pom.xml file
 10.screenshots
 
-# main idea- find second hand cars and bikes list which are of price less than 4 lakh INR in chennai.
+# main idea- find second hand cars 
+# bikes list which are of price less than 4 lakh INR in chennai.
 
+
+
+
+# page object model- pages
+
+# base class- which extends all the classes in the page object model
+
+# utils class- gives the details for the extent reports,html reports 
+
+1.login page
+2.launchpage
+3.bike manufacturer page
+4.honda details page 
+5.car details page
+      
+
+# test cases
+1.login page test
+2.bike details test
+3.used cars test
