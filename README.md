@@ -19,12 +19,12 @@ Technology Used:
 
 
 
+
+
+ base class- which extends all the classes in the page object model
+
+ utils class- gives the details for the extent reports,html reports 
 # page object model- pages
-
-# base class- which extends all the classes in the page object model
-
-# utils class- gives the details for the extent reports,html reports 
-
 1.login page
 2.launchpage
 3.bike manufacturer page
