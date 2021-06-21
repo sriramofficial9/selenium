@@ -1,4 +1,4 @@
-# selenium automation
+# automation using java with selenium
 website-zigwheels
 
 Technology Used:
